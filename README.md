@@ -1,17 +1,17 @@
-# Durgaprasad Karri — Cybersecurity Portfolio
+# Durgaprasad Karri — Cybersecurity Portfolio V4
 
-Static portfolio website for GitHub Pages.
+Recruiter-grade static portfolio for GitHub Pages.
 
-## Publish on GitHub Pages
+## Files
+- `index.html`
+- `styles.css`
+- `script.js`
+- `Durgaprasad_Karri_Resume.docx`
 
-1. Create a public repository named `durgka4.github.io`.
-2. Upload every file in this folder to the repository root.
-3. Go to **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select **main** and **/(root)**, then Save.
-6. Your site will be available at `https://durgka4.github.io/` after GitHub finishes deployment.
+## GitHub Pages
+1. Create/use `durgka4.github.io`.
+2. Upload these files to the repository root.
+3. Settings → Pages → Deploy from a branch → `main` → `/(root)`.
+4. Open `https://durgka4.github.io/`.
 
-## Notes
-- Keep `index.html` at repository root.
-- Keep CSS/JS/resume files in the same relative structure used by the HTML.
-- Do not publish passwords, private IPs, customer names, internal diagrams, credentials, or confidential incident data.
+All portfolio experience figures use **6+ years** consistently. The resume filename is intentionally normalized to `Durgaprasad_Karri_Resume.docx`.

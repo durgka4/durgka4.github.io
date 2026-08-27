@@ -1,17 +1,23 @@
-# Durgaprasad Karri — Cybersecurity Portfolio V4
+# Durgaprasad Karri — Portfolio V4.3
 
-Recruiter-grade static portfolio for GitHub Pages.
+Recruiter-grade GitHub Pages portfolio.
 
-## Files
+## V4.3 changes
+- Personal name and professional title are immediately visible in the hero.
+- Hero headline is resized for better desktop readability.
+- Actual personal photo is integrated as `profile.jpg`.
+- 6+ years is used consistently.
+- Public phone number is not displayed.
+- Security Lab, DDoS simulator, case studies and technical stack are retained.
+- Resume button points to `Durgaprasad_Karri_Resume.pdf`.
+
+## GitHub Pages layout
+Keep these files in the repository root:
 - `index.html`
 - `styles.css`
 - `script.js`
-- `Durgaprasad_Karri_Resume.docx`
+- `profile.jpg`
+- `Durgaprasad_Karri_Resume.pdf` (if using the included PDF)
 
-## GitHub Pages
-1. Create/use `durgka4.github.io`.
-2. Upload these files to the repository root.
-3. Settings → Pages → Deploy from a branch → `main` → `/(root)`.
-4. Open `https://durgka4.github.io/`.
-
-All portfolio experience figures use **6+ years** consistently. The resume filename is intentionally normalized to `Durgaprasad_Karri_Resume.docx`.
+Repository: https://github.com/durgka4/durgka4.github.io
+Website: https://durgka4.github.io/
